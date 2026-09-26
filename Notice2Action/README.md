@@ -834,8 +834,6 @@ AI + Documents + Voice + Indian Languages + Actionable Guidance
 
 into one simple interface.
 
-❤️ Built With Sarvam AI
-
 Notice2Action was built using Sarvam AI's language, document and speech capabilities to create a practical multilingual AI experience.
 
 Core Technologies
@@ -861,8 +859,15 @@ Accessible
 Multilingual
 Voice-enabled
 Actionable
-📜 License
 
-This project is created for educational, hackathon and demonstration purposes.
+## 🌍 From Information to Action
+
+Notice2Action is built around a simple idea:
+
+> **Understanding a document should be the beginning of an action, not the end of it.**
+
+Whether it is a scholarship notice, college circular, government form, application, or important announcement, Notice2Action helps turn information into something people can actually understand and act upon.
+
+**Built with ❤️ using Sarvam AI by Pranav Kumar Jha**
 
 
